@@ -1,6 +1,6 @@
 # Underactuated_Tendon-Driven_Robotic_Gripper
 
-![Gripper](render.png)
+![Gripper](CAD/Final_Assembly_Photo.png)
 
 ---
 
