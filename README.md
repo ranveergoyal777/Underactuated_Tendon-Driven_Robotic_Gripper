@@ -23,7 +23,7 @@ and capable of adapting to different object shapes automatically.
 
 ## Demo
 
-![Working Model](Photos/Final_Model.png)
+![Working Model](Photos/Final_Model.jpg)
 
 [Watch Demo Video](Project_working.mp4)
 
