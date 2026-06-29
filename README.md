@@ -23,9 +23,9 @@ and capable of adapting to different object shapes automatically.
 
 ## Demo
 
-![Working Model](model.png)
+![Working Model](Photos/Final_Model.png)
 
-[Watch Demo Video](demo.mp4)
+[Watch Demo Video](Project_working.mp4)
 
 ---
 
@@ -65,10 +65,10 @@ and capable of adapting to different object shapes automatically.
 | Folder/File | Contents |
 |---|---|
 | `CAD/` | SolidWorks part and assembly files (.SLDPRT, .SLDASM) |
-| `report.pdf` | Full project report |
-| `demo.mp4` | Working model demonstration video |
-| `render.png` | CAD render |
-| `model.png` | Physical model photos |
+| `PROJECT_REPORT.pdf` | Full project report |
+| `Project_working.mp4` | Working model demonstration video |
+| `CAD/Final_Assembly_Photo.png` | CAD render |
+| `Photos/` | Physical model photos |
 
 ---
 
